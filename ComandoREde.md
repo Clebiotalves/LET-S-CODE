@@ -25,3 +25,7 @@ route print -> mapeamento do root da rede
 ## netstat
 
 netstat -> mapea nossa conexão das portas do computador
+
+## construindo camadas
+
+docker build -t minha-app .
